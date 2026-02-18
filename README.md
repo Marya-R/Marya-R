@@ -12,7 +12,7 @@ Kurdistan
 **Field of study / interests:**
 Learning sciences, computer science education, how students experience failure in learning, and designing supportive learning environments.
 
-**Contact (optional):**
+**Contact :**
 linkedin.com/in/marya-rahimi
 
 **Short bio:**
