@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Marya-R/Marya-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://github.com/Marya-R/Marya-R/blob/main/AMP-2%20(2).jpg "R")
 
-Here are some ideas to get you started:
+**School:**
+Georgia State University (PhD in Learning Sciences, focus on Computer Science Education)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Hometown:**
+Kurdistan
+
+**Field of study / interests:**
+Learning sciences, computer science education, how students experience failure in learning, and designing supportive learning environments.
+
+**Contact (optional):**
+linkedin.com/in/marya-rahimi
+
+**Short bio:**
+I'm a PhD student in Learning Sciences at Georgia State University. My research focuses on how students experience failure while learning programming and how educational design can support persistence, confidence, and deeper learning. I am interested in the intersection of education, psychology, and computing, with a goal of improving learning experiences for diverse student populations.
+
+
+
